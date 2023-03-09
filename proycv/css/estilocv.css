@@ -8,7 +8,7 @@ body{
     background-color: rgb(224, 136, 64);
 }
 .Yo {
-    text-align: center;
+    text-align: start ;
 }
 
 section#personal{
@@ -124,7 +124,7 @@ div { display: block;
 
 
 .tarjeta {
-    font-size: 0%;
+    font-size: 90%;
 }
 
 .flip-card {
